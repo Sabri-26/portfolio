@@ -1,0 +1,6 @@
+.blue{
+ display: flex;
+ justify-content: flex-end;
+ list-style-type: none;
+ gap: 20px;
+}
